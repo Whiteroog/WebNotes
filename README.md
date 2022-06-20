@@ -1,6 +1,6 @@
 # Заметки для создания сайта
 
-* [HTML](html.md)
-* [CSS](css.md)
-* [JavaScript](javascript.md)
-* [PHP](php.md)
+* [HTML](HTML.md)
+* [CSS](CSS.md)
+* [JavaScript](JavaScript.md)
+* [PHP](PHP.md)
